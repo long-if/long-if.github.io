@@ -1,0 +1,75 @@
+html {
+    background-image: url(../images/b1.png) ;
+    background-size: cover;
+    background-color:#cccccc;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.b1 {
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+    background-color:cornsilk;
+    border: 2px inset gold;
+    border-radius: 100%;
+    position: relative;
+    top: 6px;
+    right: -85%;
+    font-size: 18px;
+    margin: 4px 2px;
+    padding: 8px;
+}
+
+.出处 {
+    margin-left: 100px;
+}
+
+figure {
+    font-size: 25px;
+    width: 300px;
+    /* border:5px solid #361b1b; */
+    position: relative;
+    text-align: center;
+    top: -480px;
+    right: -150px;
+    padding: 0px;
+}
+
+img {
+    width: 300px;
+    height: 383px;
+}
+
+img:hover {
+    width: 101%;
+    height: 101%;
+}
+
+
+figure:hover {
+    font-size: 30px;
+    font-weight: 100;
+    text-shadow: 5px 5px 5px #96e7bf;
+}
+
+p {
+    padding: 2%;
+}
+
+
+div {
+    font-size: 20px;
+    color: black;
+    margin-top: 5%;
+    margin-left: 70%;
+    margin-right: 5%;
+    width: auto;
+    padding:30px 70px;
+    border: 2px solid #1ddfc5;
+    background-color: rgba(250, 235, 215, 0.384);
+    /* background-color: rgba(226, 230, 25, 0.2); */
+    border-radius: 5%;
+}
